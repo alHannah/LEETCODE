@@ -26,4 +26,4 @@ for i in range(listLen - 1):
         com.append(large[n])
         n += 1
 
-print(com)
+print(''.join(com))
